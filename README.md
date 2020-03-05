@@ -21,3 +21,11 @@ After cloning, navigate into the folder Megasoftcalc and activate the virtual en
 After activating the environment and this project to work, run the following command to install all packages needed
 
 `pip install -r requirements.txt`
+
+## Serving the application
+ Navigate to megasoftcalc/ folder using `cd megasoftcalc/` that contains manage.py file and serve the web api using the command below
+
+ `python manage.py runserver`
+
+ ## Review the code
+ Thank you
